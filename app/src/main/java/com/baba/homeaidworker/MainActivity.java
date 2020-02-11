@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
+    String flag="accept my pull request";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
